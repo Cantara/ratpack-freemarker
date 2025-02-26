@@ -9,14 +9,14 @@
 
   <groupId>no.cantara</groupId>
   <artifactId>ratpack-freemarker</artifactId>
-  <version>0.5.18-SNAPSHOT</version>
+  <version>0.5.18</version>
   <packaging>jar</packaging>
 
   <scm>
     <developerConnection>scm:git:git@github.com:Cantara/ratpack-freemarker.git</developerConnection>
     <connection>scm:git:git@github.com:Cantara/ratpack-freemarker.git</connection>
     <url>https://github.com/Cantara/ratpack-freemarker</url>
-    <tag>HEAD</tag>
+    <tag>ratpack-freemarker-0.5.18</tag>
   </scm>
 
   <repositories>
